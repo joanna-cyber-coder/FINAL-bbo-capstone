@@ -1,0 +1,3 @@
+Project Overview (Non-Technical Summary)
+
+This project optimises eight hidden, complex systems without knowing their underlying mathematical formulas. These black-box systems range from maximising recipe scores to fine-tuning complicated software configurations. By deploying an advanced strategy called Bayesian Optimisation, we built a digital assistant that acts as a highly efficient explorer. This explorer systematically analyses previous results, balances the risks of testing unknown territories against polishing known successful setups, and recommends the next best settings to try. Over thirteen weeks, this approach successfully avoided deceptive dead ends and navigated vast spaces, discovering peak performance configurations across all eight unique tasks.
