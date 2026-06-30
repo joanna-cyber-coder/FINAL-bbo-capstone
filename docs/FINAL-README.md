@@ -1,6 +1,6 @@
 # Black-Box Optimisation (BBO) Capstone Project
 
-This repository contains the dataset history and the optimization approach developed over a 10-week iterative optimization protocol across 8 hidden black-box functions.
+This repository contains the dataset history and the optimization approach developed over a 13-week iterative optimization protocol across 8 hidden black-box functions.
 
 ## Final Performance Benchmarks
 
